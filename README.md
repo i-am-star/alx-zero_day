@@ -1,1 +1,1 @@
-a read me file
+## An introduction to git and github
